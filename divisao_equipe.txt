@@ -1,0 +1,4 @@
+### Divisão de trabalho da Equipe
+Luana - conexão com mongoDB, endpoints, teste da api
+Maria Beatriz - endpoints, povoamento inicial, teste da api
+Jade - conexão com mongodb, teste da api

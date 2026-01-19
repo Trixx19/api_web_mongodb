@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from contextlib import asynccontextmanager
 from rotas import adocao, adotantes, animais, atendentes
-from database import init_db, close_db
+from database import init_db, close_db #conexao com banco
 from fastapi_pagination import add_pagination
 
 @asynccontextmanager
